@@ -1,0 +1,14 @@
+const NUMB = "3.14";
+const BOOL = "true";
+console.log(NUMB + BOOL);
+const STR = "string";
+const NUL = "";
+const UNDR = "lol";
+console.log(STR * NUL + UNDR);
+let numb = "123";
+let bool = "true";
+console.log(numb + bool);
+let str = "string";
+let nul = "";
+let undr = "lol";
+console.log(str * nul + undr);
